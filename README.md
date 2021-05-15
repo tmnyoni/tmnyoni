@@ -9,6 +9,17 @@ I'm a software developer and engineer;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" width="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Java" width="50" height="50" /> 
 <br>
 
+
+#### Major Projects
+<p>
+  <a href="https://github.com/alecmus/lecui">lecui ui library</a>
+  <br>
+  <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/tmnyoni/itmanager">
+  <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/tmnyoni/itmanager">
+  <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/tmnyoni/itmanager/total">
+</p>
+
+
 #### Trivia
 <a href="https://github.com/tmnyoni">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmnyoni&theme=dark&hide_langs_below=1&hide=c&langs_count=6&layout=compact" />
