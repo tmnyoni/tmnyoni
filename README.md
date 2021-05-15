@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi 👋, Tawanda M. Here
+
+I'm a software developer and engineer; 
+
+![GitHub User's stars](https://img.shields.io/github/stars/tmnyoni?affiliations=OWNER&logo=GitHub&logoColor=white)
+![GitHub followers](https://img.shields.io/github/followers/tmnyoni?logo=GitHub&logoColor=white)
+
+#### Top Competencies
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" width="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Java" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+<br>
 
 <!--
 **tmnyoni/tmnyoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
