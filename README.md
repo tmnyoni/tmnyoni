@@ -11,7 +11,7 @@ I'm a software developer and engineer;
 
 #### Trivia
 <a href="https://github.com/tmnyoni">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmnyoni&theme=light&hide_langs_below=1&hide=c&langs_count=6&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmnyoni&theme=dark&hide_langs_below=1&hide=c&langs_count=6&layout=compact" />
 </a>
 
 <!--
