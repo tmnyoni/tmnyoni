@@ -22,5 +22,5 @@ I'm a software developer and engineer;
 
 ### Trivia
 <a href="https://github.com/tmnyoni">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=tmnyoni&hide=c&theme=dark&langs_count=6&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tmnyoni&hide=c&theme=dark&langs_count=all&layout=compact" />
 </a>
