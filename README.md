@@ -12,7 +12,7 @@ I'm a software developer and engineer;
 
 ### Major Projects
 <p>
-  ## <a href="https://github.com/tmnyoni/itmanager">itmanager</a>
+  <a href="https://github.com/tmnyoni/itmanager">itmanager</a>
   <br>
  <p>
   This is a system that helps IT departments to relieve pressure in their workspace; by having their boring tasks done for them automatically, like keeping track   which computer was assigned with address and which one is currently online. 
@@ -24,18 +24,3 @@ I'm a software developer and engineer;
 <a href="https://github.com/tmnyoni">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmnyoni&hide=c&theme=dark&langs_count=6&layout=compact" />
 </a>
-
-<!--
-**tmnyoni/tmnyoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
