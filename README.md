@@ -15,7 +15,7 @@ I'm a software developer and engineer;
   <a href="https://github.com/tmnyoni/itmanager">itmanager</a>
   <br>
  <p>
-  This is a system that helps IT departments to relieve pressure in their workspace; by having their boring tasks done for them automatically, like keeping track   which computer was assigned with address and which one is currently online. 
+  This is a system that helps IT departments to relieve pressure in their workspace; by having their boring tasks done for them automatically, like keeping track   which computer was assigned which static address and which one is currently online. 
  </p>
 </p>
 
