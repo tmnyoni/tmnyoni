@@ -14,9 +14,9 @@ I'm a software developer and engineer;
 <p>
   <a href="https://github.com/tmnyoni/itmanager">itmanager</a>
   <br>
-  <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/tmnyoni/itmanager">
-  <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/tmnyoni/itmanager">
-  <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/tmnyoni/itmanager/total">
+ <p>
+  This is a system that helps IT departments to relieve pressure in their workspace; by having their trivial tasks done for them automatically.  
+ </p>
 </p>
 
 
