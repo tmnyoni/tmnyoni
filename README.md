@@ -6,7 +6,9 @@ I'm a software developer and engineer;
 ![GitHub followers](https://img.shields.io/github/followers/tmnyoni?logo=GitHub&logoColor=white)
 
 ### Top Competencies
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" width="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Java" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/elm/elm-original.svg" alt="Java" width="50" height="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" width="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Java" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Java" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/elm/elm-original.svg" alt="Java" width="50" height="50" /> 
 <br>
 
 
