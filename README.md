@@ -20,6 +20,5 @@ I am full of enthusiasm, creativity, and innovation.
 
 
 ### Trivia
-<a href="https://github.com/tmnyoni">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tmnyoni&hide=c&theme=dark&layout=compact" />
-</a>
+| <a href="https://github.com/tmnyoni"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tmnyoni&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="tmnyoni's github stats" /></a> | <a href="https://github.com/tmnyoni"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmnyoni&layout=compact&theme=dracula&hide_border=true" /></a> |
+| ------------- | ------------- |
