@@ -3,8 +3,7 @@
 #### I'm a software developer and engineer, and UI & UX designer.
 
 <p>
-I am an enthusiastic software developer and engineer. I also design user interfaces and user interfaces for websites.
-I am full of enthusiasm, creativity, and innovation. 
+I am an enthusiastic software developer and engineer. I also design user interfaces.
 </p>
 
 ![GitHub User's stars](https://img.shields.io/github/stars/tmnyoni?affiliations=OWNER&logo=GitHub&logoColor=white)
