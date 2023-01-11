@@ -1,6 +1,6 @@
-#### I'm Tawanda M. 
+#### Hi, I'm Tawanda M. 
 
-I'm a software developer and engineer, and UI & UX designer.
+I'm a software developer and UI & UX designer.
 
 <p>
 I am an enthusiastic software developer and engineer. I also design user interfaces.
